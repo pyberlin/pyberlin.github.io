@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "PyLadies Berlin"
 date:   2018-08-21 11:15:24 +0200
 categories: jekyll update
 ---
