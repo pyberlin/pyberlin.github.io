@@ -21,11 +21,11 @@ layout: default
 
           <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="https://img.youtube.com/vi/{{article.youtube}}/hqdefault.jpg" alt="Card image cap">
+                <img class="card-img-top" src="/assets/images/{{ post.image }}" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">{{ post.title | escape }}</h5>
                     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                    <small class="text-muted">{{ post.date | date: date_format }}</small>
+                   <!-- <small class="text-muted">{{ post.date | date: date_format }}</small>-->
                     <p class="card-text">{{ post.excerpt }}</p>
                     <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
