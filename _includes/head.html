@@ -4,7 +4,9 @@
 
   <link rel="canonical" href="{{- page.url | absolute_url -}}">
   {%- capture _page_title -%}
-    {%- if page.title -%}{{- page.title | append: ' | ' -}}{%- endif -%}
+    {%- if page.title -%}
+      {{- page.title | append: ' | ' -}}
+    {%- endif -%}
     {{- site.title | default: "Untitled Website" -}}
     {%- if site.subtitle -%}{{- site.subtitle | prepend: ' - ' -}}{%- endif -%}
   {%- endcapture -%}
