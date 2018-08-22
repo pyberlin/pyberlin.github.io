@@ -5,22 +5,17 @@ date:   2018-08-21 11:15:24 +0200
 categories: jekyll update
 image: pyladies.jpeg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+PyLadies is an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 
-Jekyll also offers powerful support for code snippets:
+Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+PyLadies also aims to provide a friendly support network for women and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Pyladies Berlin are regularly meeting once per month, every third Tuesday of the month.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+There is usually a talk and a hands on session over a python topic. Anyone is welcome to propose topics that wishes to learn and give a talk.
+
+Meetup: [https://www.meetup.com/PyLadies-Berlin/][meetup]
+
+[meetup]:   https://www.meetup.com/PyLadies-Berlin/
