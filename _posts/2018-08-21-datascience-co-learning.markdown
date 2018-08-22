@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PyLadies Berlin"
+title:  "Data Science Co-Learning"
 date:   2018-08-21 11:15:24 +0200
 categories: jekyll update
 image: pyladies.jpeg
