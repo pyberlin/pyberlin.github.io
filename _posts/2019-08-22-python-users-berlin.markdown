@@ -3,7 +3,7 @@ layout: post
 title:  "PyBerlin"
 date:   2018-12-08 11:15:24 +0200
 categories: jekyll update
-image: pyberlin.jpeg
+image: pyberlin.jpg
 ---
 
 PyBerlin is a meetup community for anyone interested in Python - at all levels, from complete beginners to seasoned professionals.
