@@ -1,14 +1,33 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+<main role="main">
 
-  <div class="post-content">
-    {{ content }}
+  <section class="jumbotron text-center">
+    <div class="container">
+      <h1 class="jumbotron-heading">{{ page.title | escape }}</h1>
+    </div>
+  </section>
+
+  <div class="album py-5 bg-light">
+    <div class="container">
+
+
+      <!-- Marketing messaging and featurettes
+    ================================================== -->
+      <!-- Wrap the rest of the page in another container to center all the content. -->
+
+      <article class="post">
+
+        <div class="post-content">
+          {{ content }}
+        </div>
+
+      </article>
+
+      <!-- /.container -->
+
+    </div>
   </div>
 
-</article>
